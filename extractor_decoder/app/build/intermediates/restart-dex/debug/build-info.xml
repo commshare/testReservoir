@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.1"
+    timestamp="634576828762502"
+    token="-4035135226482186620"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="125" />
+    <task
+        name="instant-run-dex"
+        duration="519" />
+    <task
+        name="instant-run-transform"
+        duration="48" />
+    <task
+        name="verifier"
+        duration="16" />
+
+    <artifact
+        location="E:\huanju\mediacodec\MYSELF\MediaCodecDemo\extractor_decoder\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="634422058656876"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\MediaCodecDemo\extractor_decoder\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="634576828762502"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\MediaCodecDemo\extractor_decoder\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

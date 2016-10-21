@@ -1,0 +1,7 @@
+#Thu Oct 20 19:41:22 CST 2016
+base.0=E\:\\huanju\\mediacodec\\MYSELF\\MediaCodecDemo\\extractor_decoder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b5b96916077c0748ad19a44ace10cca6a8ed3b08
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\huanju\\mediacodec\\MYSELF\\MediaCodecDemo\\extractor_decoder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9afce76e7734cc3c58d66a46b2a8fd3e5163c2d9\\classes.dex
+base.1=E\:\\huanju\\mediacodec\\MYSELF\\MediaCodecDemo\\extractor_decoder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_9afce76e7734cc3c58d66a46b2a8fd3e5163c2d9
+file.0=E\:\\huanju\\mediacodec\\MYSELF\\MediaCodecDemo\\extractor_decoder\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b5b96916077c0748ad19a44ace10cca6a8ed3b08\\classes.dex

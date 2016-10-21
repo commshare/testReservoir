@@ -1,0 +1,22 @@
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+extractor_decoder/bin/
+extractor_decoder/gen/
+extractor_decoder/obj/
+extractor_decoder/.idea/
+extractor_decoder/build/
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
