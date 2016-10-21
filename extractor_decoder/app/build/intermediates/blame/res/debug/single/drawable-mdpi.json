@@ -2,5 +2,9 @@
     {
         "merged": "E:\\huanju\\mediacodec\\MYSELF\\MediaCodecDemo\\extractor_decoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
         "source": "E:\\huanju\\mediacodec\\MYSELF\\MediaCodecDemo\\extractor_decoder\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\huanju\\mediacodec\\MYSELF\\Reservoir\\extractor_decoder\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\huanju\\mediacodec\\MYSELF\\Reservoir\\extractor_decoder\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     }
 ]

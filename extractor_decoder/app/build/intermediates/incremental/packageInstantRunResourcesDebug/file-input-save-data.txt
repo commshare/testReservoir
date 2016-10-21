@@ -1,12 +1,12 @@
 #Internal package file, do not edit.
-#Thu Oct 20 19:41:16 CST 2016
-1.base=E\:\\huanju\\mediacodec\\MYSELF\\MediaCodecDemo\\extractor_decoder\\app\\build\\intermediates\\res\\resources-debug.ap_
-1.file=E\:\\huanju\\mediacodec\\MYSELF\\MediaCodecDemo\\extractor_decoder\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
-2.base=E\:\\huanju\\mediacodec\\MYSELF\\MediaCodecDemo\\extractor_decoder\\app\\build\\intermediates\\res\\resources-debug.ap_
+#Fri Oct 21 11:07:30 CST 2016
+1.base=E\:\\huanju\\mediacodec\\MYSELF\\Reservoir\\extractor_decoder\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\huanju\\mediacodec\\MYSELF\\Reservoir\\extractor_decoder\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+2.base=E\:\\huanju\\mediacodec\\MYSELF\\Reservoir\\extractor_decoder\\app\\build\\intermediates\\res\\resources-debug.ap_
 2.set=ANDROID_RESOURCE
-2.file=E\:\\huanju\\mediacodec\\MYSELF\\MediaCodecDemo\\extractor_decoder\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+2.file=E\:\\huanju\\mediacodec\\MYSELF\\Reservoir\\extractor_decoder\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
 count=3
 1.set=ANDROID_RESOURCE
 0.set=ANDROID_RESOURCE
-0.base=E\:\\huanju\\mediacodec\\MYSELF\\MediaCodecDemo\\extractor_decoder\\app\\build\\intermediates\\res\\resources-debug.ap_
-0.file=E\:\\huanju\\mediacodec\\MYSELF\\MediaCodecDemo\\extractor_decoder\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.base=E\:\\huanju\\mediacodec\\MYSELF\\Reservoir\\extractor_decoder\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.file=E\:\\huanju\\mediacodec\\MYSELF\\Reservoir\\extractor_decoder\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml

@@ -5,25 +5,25 @@
     density="xxhdpi"
     format="8"
     plugin-version="2.2.1"
-    timestamp="634576828762502"
+    timestamp="690327296616983"
     token="-4035135226482186620"
     verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="125" />
+        duration="152" />
     <task
         name="instant-run-dex"
-        duration="519" />
+        duration="497" />
     <task
         name="instant-run-transform"
-        duration="48" />
+        duration="13" />
     <task
         name="verifier"
-        duration="16" />
+        duration="1" />
 
     <artifact
-        location="E:\huanju\mediacodec\MYSELF\MediaCodecDemo\extractor_decoder\app\build\intermediates\reload-dex\debug\classes.dex"
+        location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\reload-dex\debug\classes.dex"
         type="RELOAD_DEX" />
 
     <build
@@ -34,10 +34,84 @@
             type="MAIN" />
     </build>
     <build
-        timestamp="634576828762502"
+        timestamp="689996902950572"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_9\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_0\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3a6ed42c62ceda098b227e02603dff122fa20f95\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0b51c19cccfcc64324b5cfed36a0bf89522da568\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_3\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_4\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_1\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_724677ac81db826e1ded80e78670a44c421bb4ed\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_8\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_7\classes.dex"
+            type="DEX" />
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_6\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="690057443188572"
         verifier="COMPATIBLE" >
         <artifact
-            location="E:\huanju\mediacodec\MYSELF\MediaCodecDemo\extractor_decoder\app\build\intermediates\reload-dex\debug\classes.dex"
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\builds\debug\690057443188572\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="690155770079811"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\builds\debug\690155770079811\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="690222761476010"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\builds\debug\690222761476010\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="690242023267553"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\builds\debug\690242023267553\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="690327296616983"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\huanju\mediacodec\MYSELF\Reservoir\extractor_decoder\app\build\intermediates\reload-dex\debug\classes.dex"
             type="RELOAD_DEX" />
     </build>
 
